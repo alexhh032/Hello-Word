@@ -1,2 +1,5 @@
 # Hello-Word
-just another repository
+Hi!
+It´s just another repository, my first repository :)
+
+
